@@ -1,0 +1,7 @@
+- [x] Restructure index.html to home page with story and global nav
+- [x] Create menu.html with menu content and nav tabs
+- [x] Create help.html with contact and help information
+- [x] Update script.js for menu.html functionality
+- [x] Update style.css for global navigation
+- [x] Fix navigation: remove global nav from menu page, add back link
+- [ ] Test navigation between pages
